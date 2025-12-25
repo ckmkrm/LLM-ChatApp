@@ -1,0 +1,14 @@
+C:\Users\lenovo-pc\Desktop\Visual Studio 2022\LLMChatApp\LLMChatApp\bin\Debug\LLMChatApp.exe.config
+C:\Users\lenovo-pc\Desktop\Visual Studio 2022\LLMChatApp\LLMChatApp\bin\Debug\LLMChatApp.exe
+C:\Users\lenovo-pc\Desktop\Visual Studio 2022\LLMChatApp\LLMChatApp\bin\Debug\LLMChatApp.pdb
+C:\Users\lenovo-pc\Desktop\Visual Studio 2022\LLMChatApp\LLMChatApp\bin\Debug\Newtonsoft.Json.dll
+C:\Users\lenovo-pc\Desktop\Visual Studio 2022\LLMChatApp\LLMChatApp\bin\Debug\Newtonsoft.Json.xml
+C:\Users\lenovo-pc\Desktop\Visual Studio 2022\LLMChatApp\LLMChatApp\obj\Debug\LLMChatApp.csproj.AssemblyReference.cache
+C:\Users\lenovo-pc\Desktop\Visual Studio 2022\LLMChatApp\LLMChatApp\obj\Debug\LLMChatApp.Form1.resources
+C:\Users\lenovo-pc\Desktop\Visual Studio 2022\LLMChatApp\LLMChatApp\obj\Debug\LLMChatApp.Properties.Resources.resources
+C:\Users\lenovo-pc\Desktop\Visual Studio 2022\LLMChatApp\LLMChatApp\obj\Debug\LLMChatApp.csproj.GenerateResource.cache
+C:\Users\lenovo-pc\Desktop\Visual Studio 2022\LLMChatApp\LLMChatApp\obj\Debug\LLMChatApp.csproj.CoreCompileInputs.cache
+C:\Users\lenovo-pc\Desktop\Visual Studio 2022\LLMChatApp\LLMChatApp\obj\Debug\LLMChatApp.csproj.Up2Date
+C:\Users\lenovo-pc\Desktop\Visual Studio 2022\LLMChatApp\LLMChatApp\obj\Debug\LLMChatApp.exe
+C:\Users\lenovo-pc\Desktop\Visual Studio 2022\LLMChatApp\LLMChatApp\obj\Debug\LLMChatApp.pdb
+C:\Users\lenovo-pc\Desktop\Visual Studio 2022\LLMChatApp\LLMChatApp\obj\Debug\LLMChatApp.exe.config
